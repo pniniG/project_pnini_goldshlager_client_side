@@ -1,0 +1,9 @@
+.selected {
+    -webkit-filter: grayscale(100%);
+
+    filter: grayscale(100%);
+}
+
+.margin_center {
+    margin: 0 auto;
+}
